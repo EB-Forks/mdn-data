@@ -837,6 +837,7 @@
   "::marker": {
     "syntax": "::marker",
     "groups": [
+      "CSS Lists and Counters",
       "Pseudo-elements",
       "Selectors"
     ],
@@ -846,6 +847,7 @@
   "::part": {
     "syntax": "::part( <ident>+ )",
     "groups": [
+      "CSS Shadow Parts",
       "Pseudo-elements",
       "Selectors"
     ],
